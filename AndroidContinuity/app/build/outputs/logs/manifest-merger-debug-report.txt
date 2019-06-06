@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\ab01161380a38ab97ba09617403d7053\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\854361e77f28a1274e61b8052ee139ec\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\b574029bcc1d7cc3545130fa8c8f33cf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\17fa9530331adb7bf3af616e6c7aa546\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\6526903b46996109e66c5d26f6e143cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\cb22ebd3e40f006798f751c664608cf4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\d5347cba2e9e9760a359fa0fccfc8a69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\4dd9a94b240ae6287d6d8a3c840c556f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\dc31f70ec01d5de081e87978accdcc88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\9d8248a33840ba6a543e3fd68e379492\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\389e71e3f7ebcd3b92484ec82566827b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\f6e3af8e198588685a7723f665f3977c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\85bc86f4a1e986973c12e50600e1e11c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\8c237a8ef4e832caa110a4b3c9d55d88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\f2a04e4eecb0c41fe2c16bf814e1356e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\ef0ad8a4e4b435cf2672d92ad4dada6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\9ccd46a91a02257b90232c5681fb1f0c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\f380722b1393476d4e1b7cb984a6c26f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\613e071ca6fd2ba0e1c0a05054df6ea2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\94140f6c068c332455c14d17e6afd9bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\d0220192121f39ea6ab41e959b12616c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\a35ea1477a2066315664cdc72f523838\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\2d32f5e5b7aadc53e65e7197cd77ad77\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\e9c1cb3ccf436018876780fdd3fc2042\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\cb4c47f42fbdf07a8f64c8b06ae5e0f4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\4f23c38c2cae38c73ef022a4f6019503\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\8d6b3dfdeb7f8832a88043bb2e42c464\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\b2f98088bbf1519ef204dd85de4af2a8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:8:22-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:9:22-72
+application
+ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:11:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\854361e77f28a1274e61b8052ee139ec\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\854361e77f28a1274e61b8052ee139ec\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\b574029bcc1d7cc3545130fa8c8f33cf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\b574029bcc1d7cc3545130fa8c8f33cf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\9ccd46a91a02257b90232c5681fb1f0c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\9ccd46a91a02257b90232c5681fb1f0c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\f380722b1393476d4e1b7cb984a6c26f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\f380722b1393476d4e1b7cb984a6c26f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\9ccd46a91a02257b90232c5681fb1f0c\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.androidcontinuity.MessageActivity
+ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:18:9-62
+	android:name
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:18:19-50
+activity#com.example.androidcontinuity.HomePage
+ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:19:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.androidcontinuity.TextEditorActivity
+ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:26:9-65
+	android:name
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml:26:19-53
+uses-sdk
+INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\ab01161380a38ab97ba09617403d7053\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\ab01161380a38ab97ba09617403d7053\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\854361e77f28a1274e61b8052ee139ec\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\854361e77f28a1274e61b8052ee139ec\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\b574029bcc1d7cc3545130fa8c8f33cf\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\b574029bcc1d7cc3545130fa8c8f33cf\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\17fa9530331adb7bf3af616e6c7aa546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\17fa9530331adb7bf3af616e6c7aa546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\6526903b46996109e66c5d26f6e143cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\6526903b46996109e66c5d26f6e143cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\cb22ebd3e40f006798f751c664608cf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\cb22ebd3e40f006798f751c664608cf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\d5347cba2e9e9760a359fa0fccfc8a69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\d5347cba2e9e9760a359fa0fccfc8a69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\4dd9a94b240ae6287d6d8a3c840c556f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\4dd9a94b240ae6287d6d8a3c840c556f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\dc31f70ec01d5de081e87978accdcc88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\dc31f70ec01d5de081e87978accdcc88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\9d8248a33840ba6a543e3fd68e379492\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\9d8248a33840ba6a543e3fd68e379492\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\389e71e3f7ebcd3b92484ec82566827b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\389e71e3f7ebcd3b92484ec82566827b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\f6e3af8e198588685a7723f665f3977c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\f6e3af8e198588685a7723f665f3977c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\85bc86f4a1e986973c12e50600e1e11c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\85bc86f4a1e986973c12e50600e1e11c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\8c237a8ef4e832caa110a4b3c9d55d88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\8c237a8ef4e832caa110a4b3c9d55d88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\f2a04e4eecb0c41fe2c16bf814e1356e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\f2a04e4eecb0c41fe2c16bf814e1356e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\ef0ad8a4e4b435cf2672d92ad4dada6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\ef0ad8a4e4b435cf2672d92ad4dada6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\9ccd46a91a02257b90232c5681fb1f0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\9ccd46a91a02257b90232c5681fb1f0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\f380722b1393476d4e1b7cb984a6c26f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\f380722b1393476d4e1b7cb984a6c26f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\613e071ca6fd2ba0e1c0a05054df6ea2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\613e071ca6fd2ba0e1c0a05054df6ea2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\94140f6c068c332455c14d17e6afd9bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\94140f6c068c332455c14d17e6afd9bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\d0220192121f39ea6ab41e959b12616c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\d0220192121f39ea6ab41e959b12616c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\a35ea1477a2066315664cdc72f523838\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\a35ea1477a2066315664cdc72f523838\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\2d32f5e5b7aadc53e65e7197cd77ad77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\2d32f5e5b7aadc53e65e7197cd77ad77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\e9c1cb3ccf436018876780fdd3fc2042\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\e9c1cb3ccf436018876780fdd3fc2042\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\cb4c47f42fbdf07a8f64c8b06ae5e0f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\cb4c47f42fbdf07a8f64c8b06ae5e0f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\4f23c38c2cae38c73ef022a4f6019503\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\4f23c38c2cae38c73ef022a4f6019503\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\8d6b3dfdeb7f8832a88043bb2e42c464\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\8d6b3dfdeb7f8832a88043bb2e42c464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\b2f98088bbf1519ef204dd85de4af2a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Amey\.gradle\caches\transforms-2\files-2.1\b2f98088bbf1519ef204dd85de4af2a8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Amey\Downloads\Brogrammers-master\Brogrammers-master\AndroidContinuity\app\src\main\AndroidManifest.xml
